@@ -1,0 +1,2 @@
+# Implementation-of-SOM
+🚀 Self-Organizing Map (SOM) in Python  Learn unsupervised clustering with a simple 2-neuron SOM: ✔ Train neurons on 4D input vectors ✔ Update weights with learning rate ✔ Test new samples for cluster assignment ✔ Visualize neuron positions and training data in 2D  Perfect for beginners exploring neural networks and clustering algorithms.
